@@ -30,7 +30,7 @@ import jp.llv.nest.module.Module;
  *
  * @author toyblocks
  */
-@Module(name="kotlin-reflect", author = "toyblocks", version=2)
+@Module(name="kotlin-reflect", author = "toyblocks", version=3)
 public class KotlinReflectModule {
     @Inject
     public KotlinReflectModule(KotlinModule module) {
